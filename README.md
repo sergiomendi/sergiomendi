@@ -31,7 +31,7 @@
 
 ### 🌍 Connect with Me
 <p align="center">
-  <a href="www.linkedin.com/in/sergiomendiolaarraez">
+  <a href="https://www.linkedin.com/in/sergiomendiolaarraez">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
   </a>
   <a href="mailto:smendiolaarraez@gmail.com">
