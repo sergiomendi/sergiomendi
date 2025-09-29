@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=sergio.visitor-badge">
-
 <h1 align="center">Hey, I'm Sergio 👋</h1>
 <h3 align="center">Multimedia Engineer | Data Science Master's Student | Creative Tech Explorer 🚀</h3>
 
@@ -37,7 +35,7 @@
 
 ---
 
-<h2 align="center">:bar_chart: GitHub Stats (Implementing...)</h2>
+<h2 align="center">:bar_chart: GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomendi&theme=radical&line_height=27&hide=html,css" alt="Top Languages"/>
