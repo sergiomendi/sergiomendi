@@ -40,11 +40,11 @@
 <h2 align="center">:bar_chart: GitHub Stats (Implementing...)</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical&line_height=27&hide=html,css" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomendi&theme=radical&line_height=27&hide=html,css" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=dark&background=141321" alt="GitHub Streak"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=sergiomendi&theme=dark&background=141321" alt="GitHub Streak"/>
 </p>
 
 ---
